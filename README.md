@@ -1,10 +1,16 @@
 # 🧑‍💻 Artiom Startev
-`Full-Stack Software Engineer | AWS Certified Developer – Associate 🚀`
+`Full-Stack Software Engineer | AWS Certified Solutions Architect 🚀`
 
 ## :man_scientist: About Me
-Energetic and motivated Full-Stack Software Engineer with over 3 years of experience specializing in AWS Cloud Engineering and Architecture. Equipped with expertise in both Front-End and Back-End technologies, capable of implementing projects from start to end, ensuring seamless integration and delivery. Achieved AWS Cloud Practitioner and AWS Developer Associate certifications, demonstrating a strong foundation in cloud technologies.
+🚀 Full-Stack Software Engineer | AWS Cloud Engineer | 3X AWS Certified
 
-Known for disciplined work ethic, taking on responsibilities with gusto, and consistently going above and beyond expectations. Passionate about continuous learning and leveraging new skills to create powerful and revolutionary solutions. Always ready to help people, regardless of their expertise or the field they are in, by offering my support, guidance, and knowledge. I believe in the power of collaboration and enjoy assisting others in overcoming challenges, finding solutions, and achieving their goals.
+Experienced in Cloud Architecture, Backend Development, and Frontend Engineering, I specialize in designing and optimizing scalable, high-performance applications. With 4+ years of hands-on experience, I have deep expertise in AWS services, distributed systems, and modern web technologies.
+
+🔹 Cloud & Infrastructure – Architecting and optimizing cloud solutions using AWS, with a strong focus on security, reliability, and cost efficiency.<br>
+🔹 Backend Engineering – Building robust, scalable, and efficient APIs using Go, GraphQL, and REST, ensuring high performance and maintainability.<br>
+🔹 Frontend Development – Crafting seamless user experiences with Angular, TypeScript, and RxJS, delivering clean, efficient, and intuitive applications.<br>
+
+Holding AWS Certified Solutions Architect – Associate, Developer – Associate, and Cloud Practitioner certifications, I’m passionate about efficiency, automation, and solving complex challenges. Constantly learning, improving, and pushing the boundaries of what’s possible in cloud and software development.
 
 ## :trophy:	 Languages, Tools, and Technologies
 ### Cloud & DevOps
@@ -26,11 +32,15 @@ Known for disciplined work ethic, taking on responsibilities with gusto, and con
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)   ![AWS CodeCommit](https://img.shields.io/badge/AWS_CodeCommit-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📜 Certifications
-1. **AWS Certified Developer – Associate**
+1. **AWS Certified Solutions Architect – Associate**
+   - Issued Mar 2025 · Expires Mar 2028
+   - [View Credential](https://www.credly.com/badges/ca5cb1d3-70c3-453f-83da-b1aed6090a7c/linked_in_profile)
+
+2. **AWS Certified Developer – Associate**
    - Issued Feb 2023 · Expires Feb 2026
    - [View Credential](https://www.credly.com/badges/15801f9f-807e-4ec5-845c-29931c6fa8e8/linked_in_profile)
 
-2. **AWS Certified Cloud Practitioner**
+3. **AWS Certified Cloud Practitioner**
    - Issued Nov 2021 · Expires Feb 2026
    - [View Credential](https://www.credly.com/badges/794f6f6b-b104-4529-9d67-fd6ef85a27a3/linked_in_profile)
 
