@@ -41,8 +41,8 @@ Holding AWS Certified Solutions Architect – Associate, Developer – Associate
    - [View Credential](https://www.credly.com/badges/15801f9f-807e-4ec5-845c-29931c6fa8e8/linked_in_profile)
 
 3. **AWS Certified Cloud Practitioner**
-   - Issued Nov 2021 · Expires Feb 2026
-   - [View Credential](https://www.credly.com/badges/794f6f6b-b104-4529-9d67-fd6ef85a27a3/linked_in_profile)
+   - Issued Nov 2021 · Expires Mar 2028
+   - [View Credential](https://www.credly.com/earner/earned/badge/dcb59207-0bdd-487d-957e-a93c9cc3eb01)
 
 ## 🌐 Languages
 * **English:** Professional working proficiency
